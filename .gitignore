@@ -1,0 +1,20 @@
+# Artefatos de build do Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.tlog/
+*.obj
+*.obj.enc
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.ipch
+*.suo
+*.db
+*.exe
+*.log
+*.lastbuildstate
+*.user
+unsuccessfulbuild
